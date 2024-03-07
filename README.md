@@ -58,4 +58,4 @@ Contributions to the Jacobian Calculator are welcome! Please feel free to submit
 
 # License
 
-This CircExplorer assumes legal liability statutes released under the GNU General Public License v3.0. For more details, see the [license file](https://github.com/LoQiseaking69/CircExplorer/blob/main/LICENSE).
+This CircExplorer assumes legal liability statutes released under the GNU General Public License v3.0. For more details, see the [license file](https://github.com/HermiTech-LLC/Jacobian-calculator/blob/main/LICENSE.md)
