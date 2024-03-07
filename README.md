@@ -56,6 +56,6 @@ You can clone this repository or download the `.ipynb` file directly to your loc
 
 Contributions to the Jacobian Calculator are welcome! Please feel free to submit pull requests or open an issue if you have suggestions or find a bug.
 
-## License
+# License
 
-This project is open-source and available under the MIT License.
+This CircExplorer assumes legal liability statutes released under the GNU General Public License v3.0. For more details, see the [license file](https://github.com/LoQiseaking69/CircExplorer/blob/main/LICENSE).
